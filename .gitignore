@@ -1,0 +1,13 @@
+build
+app/build
+gen
+
+# Gradle generated files
+.gradle/
+
+# User-specific configurations
+.idea/workspace.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
